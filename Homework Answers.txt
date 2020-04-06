@@ -1,0 +1,7 @@
+* You must include a written description of three observable trends based on the data.
+
+1. Charter Schools have higher grades overall than district schools.
+
+2. Larger schools have have lower scores overall than smaller schools.
+
+3. Charter schools have a higher math score and reading score than the district schools.
