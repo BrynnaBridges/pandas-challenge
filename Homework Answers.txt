@@ -1,0 +1,11 @@
+
+* You must include a written description of three observable trends based on the data.
+
+1. Charter Schools have higher grades overall than district schools.
+
+2. Larger schools have have lower scores overall than smaller schools.
+
+3. The most significant difference in percentages is from charter to district is in the percent passing math. Charter schools have a much higher percentage of students passing math.
+
+>>>>>>> fc6f7e05c310f55555f9a07d9bda69a35ca9d818
+3. Charter schools have a higher math score and reading score than the district schools.
